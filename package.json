@@ -1,0 +1,25 @@
+{
+  "name": "bobbot",
+  "version": "1.0.0",
+  "description": "botbob for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdog01/botbob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdog01/botbob/issues"
+  },
+  "homepage": "https://github.com/gitdog01/botbob#readme",
+  "dependencies": {
+    "googleapis": "^97.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
